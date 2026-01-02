@@ -1,6 +1,6 @@
 # 自定义控制器通信程序（6 路布瑞克编码器 · USART6 · 上位机）
 
-![Uploading 88857975c8ee83c366c697d06de8bec8.jpg…]()
+![88857975c8ee83c366c697d06de8bec8](https://github.com/user-attachments/assets/08a41cb2-bc1f-43c1-a4e5-a702b1f92162)
 
 
 ## 📌 项目简介
